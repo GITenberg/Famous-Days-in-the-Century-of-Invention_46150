@@ -1,0 +1,32 @@
+_repo: Famous-Days-in-the-Century-of-Invention_46150
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46150-h/images/cover_th.jpg
+creator:
+  authors:
+  - agent_name: Fickett, M. Grace (Mary Grace)
+    alias: Fickett, Mary Grace
+    gutenberg_agent_id: '43633'
+    url: http://www.gutenberg.org/2009/agents/43633
+  - agent_name: Stone, Gertrude L. (Gertrude Lincoln)
+    gutenberg_agent_id: '43632'
+    url: http://www.gutenberg.org/2009/agents/43632
+description: ''
+gutenberg_issued: '2014-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventions'
+- !lcc 'T'
+tableOfContents: How the sewing machine won favor -- Long-distance talking -- A new
+  era in lighting -- The triumph of Goodyear -- The easier way of printing -- Anna
+  Holman's daguerreotype -- The story of the reaper -- Grandma's introduction to electric
+  cars.
+title: Famous Days in the Century of Invention
+url: http://www.gutenberg.org/ebooks/46150
